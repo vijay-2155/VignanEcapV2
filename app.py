@@ -77,7 +77,7 @@ def format_report_for_markdown(report: str) -> str:
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
-TELEGRAM_TOKEN = "7709646266:AAGZU0JKnX_8sk068Hk2dHYLJe8-dPfrLQw"
+TELEGRAM_TOKEN = "Add your token here"
 bot_app = Application.builder().token(TELEGRAM_TOKEN).build()
 
 init_db()
