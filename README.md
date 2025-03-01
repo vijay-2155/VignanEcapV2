@@ -128,7 +128,7 @@ Your Name - vijay kumar tholeti
 Project Link: https://github.com/vijay-2155/VignanEcapV2
 
 ## Screenshots 📸
-## Start:
+## Start and set up of account for quick access:
 ![Screenshot 2025-03-01 233556](https://github.com/user-attachments/assets/91f19676-cdcb-4e7a-bb95-2bea254716ee)
 
 
